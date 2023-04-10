@@ -1,7 +1,17 @@
-# Vue 3 + Vite
+### Sidebar Animations
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This Vue project has great sidebar animations, smooth page transitions, and basic routing using vue-router package. It also includes localStorage support and SCSS for styling purposes
 
-## Recommended IDE Setup
+### How to run?
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Install packages
+
+```
+npm i
+```
+
+Run client
+
+```
+npm run start
+```
