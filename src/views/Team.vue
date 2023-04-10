@@ -1,6 +1,6 @@
 <template>
   <main>
-    <h1>About</h1>
+    <h1>Team</h1>
     <br />
     <p>
       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo,
